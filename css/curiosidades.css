@@ -61,18 +61,18 @@ header {
     margin: 50px;
 }
 #capa img {
-    width: 530px; 
-    border-radius: 20px; 
+    width: 530px;
+    border-radius: 20px;
 }
-#conteudo-direita {
+#cont-direita {
     display: flex;
     flex-direction: column;
-    gap: 15px; 
+    gap: 15px;
 }
-.cabecalho-cards {
+.cab-card {
     display: flex;
     flex-direction: column;
-    gap: 5px; 
+    gap: 5px;
 }
 .cabecalho-cards p {
     color: brown;
@@ -83,32 +83,32 @@ header {
     color: #E0E0E0;
     font-size: 24px;
 }
-.card-item {
+.ci {
     display: flex;
     flex-direction: row;
-    background-color: #333; 
-    border-radius: 12px; 
-    padding: 20px; 
-    align-items: flex-start; 
-    gap: 20px; 
+    background-color: #333;
+    border-radius: 12px;
+    padding: 20px;
+    align-items: flex-start;
+    gap: 20px;
 }
 .numero h2 {
     color: #E0E0E0;
     font-size: 28px;
 }
-.texto-card {
+.txt-card {
     display: flex;
     flex-direction: column;
-    gap: 8px; 
+    gap: 8px;
 }
-.texto-card h3 {
+.txt-card h3 {
     color: brown;
     font-size: 18px;
 }
-.texto-card p {
+.txt-card p {
     color: #E0E0E0;
     font-size: 14px;
-    
+
 }
 #fim {
     display: flex;
